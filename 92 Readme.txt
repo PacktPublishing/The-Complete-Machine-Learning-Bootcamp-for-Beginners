@@ -1,0 +1,3 @@
+- Introduction lecture is not included since it is only for Udemy 
+- Bonus lecture is not included since it is only for Udemy 
+- Some lecture resources are links to Gist. You can visit those links and add to the lectures. 
